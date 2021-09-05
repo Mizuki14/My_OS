@@ -1,3 +1,3 @@
 # My_OS
 
-This project's purpose is to learnn C language by creating my own operating system. 
+This project's purpose is to learn C language by creating my own operating system. 
